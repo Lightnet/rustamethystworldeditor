@@ -1,0 +1,4 @@
+(
+  title: "rustamethystworldeditor",
+  dimensions: Some((640, 480)),
+)
